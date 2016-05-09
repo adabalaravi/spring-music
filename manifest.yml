@@ -3,6 +3,6 @@ applications:
   - 
     instances: 1
     memory: 512M
-    name: spring-music
+    name: spring-music-adabala
     path: build/libs/spring-music.war
     random-route: true
